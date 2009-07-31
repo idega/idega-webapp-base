@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+	PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+	"http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+
+	<display-name>Idega</display-name>
+	<description>Idega base webapplication</description>
+
+<!-- MODULE:BEGIN org.apache.myfaces 0.0 -->
+<!-- MODULE:END org.apache.myfaces 0.0 -->
+
+<!-- MODULE:BEGIN com.idega.core 0.0 -->
+<!-- MODULE:END com.idega.core 0.0 -->
+
+<!-- MODULE:BEGIN com.idega.faces 0.0 -->
+<!-- MODULE:END com.idega.faces 0.0 -->
+
+<!-- MODULE:BEGIN org.apache.axis 0.0 -->
+<!-- MODULE:END org.apache.axis 0.0 -->
+
+</web-app>

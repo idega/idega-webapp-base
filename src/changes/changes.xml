@@ -1,0 +1,15 @@
+<document xmlns="http://maven.apache.org/changes/1.0.0">
+	<properties>
+		<title>idega-webapp-base Changes</title>
+		<author email="eiki@idega.com">Eirikur Hrafnsson</author>
+	</properties>
+	<body>
+
+       <release version="4.1.3-SNAPSHOT" date="2009-07-31">
+	       <action dev="eiki" type="update">
+	       	First open source version
+	       </action>
+       </release>
+
+	</body>
+</document>
