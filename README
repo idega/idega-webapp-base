@@ -1,2 +1,6 @@
 This is the base Idega web application with built in CeSM,CMS,DMS,XFORMS,BPM,JSF,AJAX and other features.
 It is based on the Idega webapplication platform see: http://www.idega.org 
+
+Please FORK this project when building your own Idega webapps if you want to keep them up to date!
+
+
