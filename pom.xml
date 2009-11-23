@@ -233,13 +233,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
       <!--snapshotPolicy>daily</snapshotPolicy-->
       <layout>legacy</layout>
     </repository>
-      <repository>
-      <id>java.net</id>
-      <name>Sun Java Net Maven Repository</name>
-      <url>https://maven-repository.dev.java.net/nonav/repository/</url>
-      <!--snapshotPolicy>daily</snapshotPolicy-->
-      <layout>legacy</layout>
-    </repository>
   </repositories>
 
     <pluginRepositories>
