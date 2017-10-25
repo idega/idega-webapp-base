@@ -95,7 +95,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
-      <artifactId>com.idega.slide</artifactId>
+      <artifactId>com.idega.jackrabbit</artifactId>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
@@ -108,10 +108,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>org.apache.axis</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.idega.block.platform</groupId>
-      <artifactId>org.apache.slide</artifactId>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
