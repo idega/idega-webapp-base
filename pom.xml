@@ -222,13 +222,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
       <url>http://repository.idega.com/maven2/</url>
       <!--snapshotPolicy>daily</snapshotPolicy-->
     </repository>
-    <repository>
-      <id>idega2</id>
-      <name>idega public repository</name>
-      <url>http://repository.idega.com/maven/</url>
-      <!--snapshotPolicy>daily</snapshotPolicy-->
-      <layout>legacy</layout>
-    </repository>
   </repositories>
 
     <pluginRepositories>
